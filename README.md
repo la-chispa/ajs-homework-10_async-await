@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/wm5xb4fq9exux0a9?svg=true)](https://ci.appveyor.com/project/la-chispa/ajs-homework-10-async-await)
